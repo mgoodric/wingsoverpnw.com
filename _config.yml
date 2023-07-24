@@ -1,0 +1,64 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site title
+title: Wings over PNW
+
+# Below the site title
+tagline: 
+
+# Site logo
+logo: "wings-over-pnw-logo-green-bg.png"
+
+# A description of your site for social meta tag, search engines, and feed.xml
+description: |
+  Discover the stunning beauty of the Pacific Northwest through our aerial journeys, as we capture mesmerizing footage from the cockpit.
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: https://wingsoverpnw.com
+
+# The subpath of your site, if you want to host your path on a subpath like on GitHub Pages. e.g. /blog
+baseurl:
+
+sass:
+  sass_dir: _sass
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: About
+  url: /about/
+- text: Style Guide
+  url: /style-guide/
+- text: Archives
+  url: /tags/
+
+# Author information - author info at the bottom of the post
+author_name: "Matt Goodrich"
+author_bio: "My name is Matt Goodrich. I'm a dad, a pilot, and an information security professional."
+author_url: "https://mattgoodrich.com"
+author_location: "Poulsbo, Washington"
+author_image: authorimage.jpg
+
+# Footer newsletter widget - add your form action url for MailChimp signup form here
+#mailchimp_url: ""
+
+# Social links in the site footer
+instagram_username: "wingsoverpnw"
+tiktok_username: "@wingsoverpnw"
+youtube_username: "@wingsoverpnw"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/blog/page:num/'
+plugins: [jekyll-paginate]
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+    auto_ids: false
