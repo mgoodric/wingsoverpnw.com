@@ -1,24 +1,12 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for BlogBox Jekyll theme
+title: About Wings over the Pacific Northwest
+description: About Wings over PNW
 featured_image: aboutPage.jpg
 ---
 
-My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 5 years.
+Flying has changed our lives. In 2021 my family and I moved to the Pacific Northwest (PNW). In 2022 we purchased a 1977 Beechcraft Bonanza A36. In 2023 and beyond we will be exploring the wonders of the Pacific Northwest. Discover the stunning beauty of the Pacific Northwest through our aerial journeys, as we capture mesmerizing footage from the cockpit. Whether it's soaring over snow-capped mountains, exploring pristine coastal areas, or landing in charming airports, we'll bring you along for the ride. Join us as we embark on thrilling adventures, showcasing the breathtaking landscapes, hidden gems, and vibrant communities of this magnificent region. 
 
-Welcome to my blog and I absolutely appreciate you stopping by! On December 25th, 2001, I left the Canada for a four months, trip to Asia. The idea was to backpack around China, Thailand, Vietnam and Cambodia and then return home and start a career in the IT industry.
-
-When I landed in Bangkok, I had $3500 USD to my name and that was it. I booked a bed in a old guesthouse in the center of the city for about a dollar per night and let the adventure begin.
-
-> “To live is the rarest thing in the world. Most people exist, that is all.” <cite>― Oscar Wilde ―</cite>
-
-In the end, I never went home after those three months. And it’s now been over 14 years and that trip has still yet to finish.
-
-The adventure has involved over 75+ countries on 5 continents as I’ve worked, lived, traveled and volunteered all over the planet.
-
-Through my own adventures – from the incredible moments and rewarding interactions to the struggles and major challenges – I aim to provide a realistic and honest account of what long-term travel is truly about and how you can work on achieving such a goal yourself.
-
-While the recognition and mentions this blog has received over the years are certainly nice, nothing compares to an email from a reader telling me that the blog helped them achieve their own travel goals.
+As passionate aviators and aircraft owners, we'll share our knowledge and experiences in navigating the realm of airplane ownership, traveling with kids, and other lessons we’ve learned along the way.. Join our growing community of aviation enthusiasts, adventurers, and those who appreciate the natural wonders of the Pacific Northwest. Subscribe to our channel for a thrilling blend of aviation, travel, and exploration, as we soar to new heights together. 
 
 *Thank You for reading!*
